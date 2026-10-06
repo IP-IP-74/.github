@@ -7,7 +7,7 @@
 #
 # 原生住宅IP多少钱,静态原生住宅IP价格介绍
 
-> **摘要：** 原生住宅IP多少钱，主要取决于国家或地区、动态还是静态、是否独享、IP来源、租用周期以及计费方式。当前公开市场中，静态原生住宅IP既有按IP/月收费的产品，也有按流量收费的动态住宅代理。部分平台公开的静态原生住宅IP价格约为 **¥28—¥46/IP/30天**，例如美国原生住宅约¥28、日本约¥38、韩国约¥42、泰国约¥46；海外静态住宅代理还可以看到约 **$2.93/IP/30天起** 的公开价格，高规格原生、洁净IP或指定ASN产品则可能达到更高价格。购买时不能单纯比较单价，还需要确认国家、城市、ISP、ASN、Residential属性、Static属性和独享情况。([ipipworld.com](https://www.ipipworld.com/pricing/))([getipproxy.com](https://getipproxy.com/pricing/))
+> **摘要：** 原生住宅IP多少钱，主要取决于国家或地区、动态还是静态、是否独享、IP来源、租用周期以及计费方式。当前公开市场中，静态原生住宅IP既有按IP/月收费的产品，也有按流量收费的动态住宅代理。部分平台公开的静态原生住宅IP价格约为 **¥28—¥46/IP/30天**，例如美国原生住宅约¥28、日本约¥38、韩国约¥42、泰国约¥46；海外静态住宅代理还可以看到约 **$2.93/IP/30天起** 的公开价格，高规格原生、洁净IP或指定ASN产品则可能达到更高价格。购买时不能单纯比较单价，还需要确认国家、城市、ISP、ASN、Residential属性、Static属性和独享情况。
 
 ## 文章目录
 
@@ -43,11 +43,11 @@
 | 长期独享住宅IP       |    约$3.80/IP/月起 | 按IP  |
 | 高洁净度/指定ASN住宅IP |  约$4.59/IP/30天起 | 按IP  |
 
-ipipworld当前公开的静态家庭住宅代理支持原生住宅资源，价格按照国家和周期分别计算。公开30天价格中，美国原生住宅为 **¥28/IP**，马来西亚为 **¥39/IP**，泰国为 **¥46/IP**，新加坡为 **¥42/IP**，韩国为 **¥42/IP**，日本为 **¥38/IP**，中国香港为 **¥38/IP**。([ipipworld.com](https://www.ipipworld.com/pricing/))
+ipipworld当前公开的静态家庭住宅代理支持原生住宅资源，价格按照国家和周期分别计算。公开30天价格中，美国原生住宅为 **¥28/IP**，马来西亚为 **¥39/IP**，泰国为 **¥46/IP**，新加坡为 **¥42/IP**，韩国为 **¥42/IP**，日本为 **¥38/IP**，中国香港为 **¥38/IP**。
 
-GetIPProxy目前公开的静态住宅代理标准套餐按30天、每IP计费，公开起始价格约 **$2.93/IP**；同时提供Native Residential和Broadcast Residential两种资源类型。([getipproxy.com](https://getipproxy.com/pricing/))
+GetIPProxy目前公开的静态住宅代理标准套餐按30天、每IP计费，公开起始价格约 **$2.93/IP**；同时提供Native Residential和Broadcast Residential两种资源类型。
 
-ZapIP当前公开的长期家宽原生住宅IP从 **$3.8/IP/月起**，页面说明其产品采用家宽原生ASN、一号一IP独享、续费保留原地址，并支持城市/州级定位。([zapip.net](https://www.zapip.net/pricing/))
+ZapIP当前公开的长期家宽原生住宅IP从 **$3.8/IP/月起**，页面说明其产品采用家宽原生ASN、一号一IP独享、续费保留原地址，并支持城市/州级定位。
 
 因此，搜索“原生住宅IP多少钱”时，不能只记住一个固定价格，而应该按照：
 
@@ -122,7 +122,7 @@ IP固定
 地区稳定
 ```
 
-例如ZapIP目前公开的长期家宽原生产品明确描述为“一号一IP独享”，并支持续费保号不更换地址。([zapip.net](https://www.zapip.net/pricing/))
+例如ZapIP目前公开的长期家宽原生产品明确描述为“一号一IP独享”，并支持续费保号不更换地址。
 
 因此，如果业务需要长期使用同一个海外住宅出口，静态原生住宅IP通常比动态住宅IP更加匹配。
 
@@ -146,7 +146,6 @@ IP固定
 泰国       ¥46/IP
 ```
 
-([ipipworld.com](https://www.ipipworld.com/pricing/))
 
 ### 是否静态
 
@@ -158,14 +157,13 @@ IP固定
 
 一号一IP独享的产品与共享住宅IP在资源成本和使用环境上存在差别。
 
-ZapIP当前公开长期家宽原生IP采用一号一IP独享模式。([zapip.net](https://www.zapip.net/pricing/))
+ZapIP当前公开长期家宽原生IP采用一号一IP独享模式。
 
 ### 是否洁净
 
 部分服务商会把普通住宅IP与经过风险筛选的Clean IP分开定价。
 
-GetIPProxy当前公开的Clean IP产品会按照风险评分、ASN及具体地区提供价格，例如美国加州Ultra-clean IP公开起价 **$4.59/IP/30天**。([getipproxy.com](https://www.getipproxy.com/))
-
+GetIPProxy当前公开的Clean IP产品会按照风险评分、ASN及具体地区提供价格，例如美国加州Ultra-clean IP公开起价 **$4.59/IP/30天**。
 ### 城市和ASN
 
 需要东京、首尔、曼谷、吉隆坡或洛杉矶等城市时，可选择的资源更有限。
@@ -230,7 +228,7 @@ $3/IP/月
 
 部分静态住宅服务商会同时提供Native Residential和Broadcast Residential。
 
-GetIPProxy当前公开的静态住宅产品就明确提供这两种选项。([getipproxy.com](https://getipproxy.com/pricing/))
+GetIPProxy当前公开的静态住宅产品就明确提供这两种选项。
 
 通常可以这样理解：
 
@@ -525,8 +523,7 @@ Datacenter：Yes
 
 目前公开价格已经可以看到明显的国家差异。
 
-ipipworld当前公开30天原生住宅IP价格如下：([ipipworld.com](https://www.ipipworld.com/pricing/))
-
+ipipworld当前公开30天原生住宅IP价格如下：
 | 国家/地区 | 原生住宅30天参考价 |
 | ----- | ---------: |
 | 美国    |     ¥28/IP |
@@ -546,8 +543,7 @@ ipipworld当前公开30天原生住宅IP价格如下：([ipipworld.com](https://
 
 同一平台不同国家出现不同价格，通常与当地住宅网络资源成本、IP库存和产品供应有关。
 
-海外其他平台的公开价格区间则更加宽泛。GetIPProxy标准静态住宅产品当前约 **$2.93/IP/30天起**，部分地区的Clean IP产品则可以达到 **$4.59/IP/30天** 或更高。([getipproxy.com](https://getipproxy.com/))
-
+海外其他平台的公开价格区间则更加宽泛。GetIPProxy标准静态住宅产品当前约 **$2.93/IP/30天起**，部分地区的Clean IP产品则可以达到 **$4.59/IP/30天** 或更高。
 因此不能简单认为“所有国家原生住宅IP都应该是同一个价格”。
 
 ## 原生住宅IP的计费方式有哪些
@@ -584,7 +580,7 @@ IP数量
 
 部分住宅代理提供按带宽购买的模式。
 
-例如ZapIP目前公开静态住宅短效IP、长效IP以及动态住宅带宽套餐等不同计费方式。([zapip.net](https://www.zapip.net/pricing/))
+例如ZapIP目前公开静态住宅短效IP、长效IP以及动态住宅带宽套餐等不同计费方式。
 
 因此购买之前要先确定：
 
@@ -741,17 +737,17 @@ Hosting
 
 对于长期项目，还应重点询问“续费是否保号”。
 
-ZapIP目前明确说明长期家宽原生产品支持续费保号；GetIPProxy也说明符合条件的IP在到期前续费可以继续保留原IP。([zapip.net](https://www.zapip.net/pricing/))([getipproxy.com](https://getipproxy.com/))
+ZapIP目前明确说明长期家宽原生产品支持续费保号；GetIPProxy也说明符合条件的IP在到期前续费可以继续保留原IP。
 
 ## 常见问题解答
 
 ### 原生住宅IP一个月多少钱？
 
-目前公开市场价格差异较大。ipipworld公开的30天原生住宅IP约为 **¥28—¥46/IP**，不同国家价格不同；GetIPProxy静态住宅代理公开起价约 **$2.93/IP/30天**。([ipipworld.com](https://www.ipipworld.com/pricing/))([getipproxy.com](https://getipproxy.com/pricing/))
+目前公开市场价格差异较大。ipipworld公开的30天原生住宅IP约为 **¥28—¥46/IP**，不同国家价格不同；GetIPProxy静态住宅代理公开起价约 **$2.93/IP/30天**。
 
 ### 静态原生住宅IP多少钱？
 
-目前公开产品中，可以看到约 **¥28—¥46/IP/30天** 的原生住宅资源，也可以看到约 **$2.93/IP/30天起** 的静态住宅产品。高洁净度、指定ASN等产品可能价格更高。([ipipworld.com](https://www.ipipworld.com/pricing/))([getipproxy.com](https://getipproxy.com/))
+目前公开产品中，可以看到约 **¥28—¥46/IP/30天** 的原生住宅资源，也可以看到约 **$2.93/IP/30天起** 的静态住宅产品。高洁净度、指定ASN等产品可能价格更高。
 
 ### 原生住宅IP在哪里买？
 
@@ -787,11 +783,11 @@ ISP主要表示IP网络服务商归属，并不自动证明物理线路就是家
 
 ### 静态原生住宅IP可以长期使用吗？
 
-很多平台支持30天、90天以及更长租期，部分服务商还支持续费保号。例如ZapIP公开说明长期家宽原生IP续费后可以保持原地址。([zapip.net](https://www.zapip.net/pricing/))
+很多平台支持30天、90天以及更长租期，部分服务商还支持续费保号。例如ZapIP公开说明长期家宽原生IP续费后可以保持原地址。
 
 ### 原生住宅IP可以指定国家和城市吗？
 
-很多住宅代理平台支持国家选择，部分还支持城市、州、ZIP和ASN定位。Decodo当前公开支持国家、州、城市、ZIP和ASN/ISP级定位。([decodo.com](https://decodo.com/proxies/residential-proxies))
+很多住宅代理平台支持国家选择，部分还支持城市、州、ZIP和ASN定位。Decodo当前公开支持国家、州、城市、ZIP和ASN/ISP级定位。
 
 ### 原生住宅IP可以指定ISP吗？
 
@@ -834,9 +830,8 @@ ISP主要表示IP网络服务商归属，并不自动证明物理线路就是家
 → 约 $4.59/IP/30天 起
 ```
 
-([ipipworld.com](https://www.ipipworld.com/pricing/))([getipproxy.com](https://www.getipproxy.com/))([zapip.net](https://www.zapip.net/pricing/))
 
-其中，ipipworld公开的原生住宅资源里，美国30天约¥28/IP，日本约¥38/IP，韩国和新加坡约¥42/IP，泰国约¥46/IP；不同国家的价格存在明显差异。([ipipworld.com](https://www.ipipworld.com/pricing/))
+其中，ipipworld公开的原生住宅资源里，美国30天约¥28/IP，日本约¥38/IP，韩国和新加坡约¥42/IP，泰国约¥46/IP；不同国家的价格存在明显差异。
 
 选择静态原生住宅IP时，建议按照：
 
